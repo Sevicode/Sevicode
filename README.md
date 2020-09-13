@@ -4,7 +4,7 @@
 
 [@Sevdasevinu](https://twitter.com/SevdaSevinu)
 
-* :woman_student_light_skin_tone: (Emojipedia) I am currently studying Web Development at [Coder Academy](https://coderacademy.edu.au/)
+* 👩🎓 I am currently studying Web Development at [Coder Academy](https://coderacademy.edu.au/)
 * I am learning JavaScript in the moment
 * I have a PhD degree in Environmental Science but found my passion in coding.
 * I love making puzzles, painting and design.
