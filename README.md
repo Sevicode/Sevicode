@@ -2,7 +2,6 @@
 ### 🙋‍♀️ Hi I'm Sevda
 
 
-[@Sevdasevinu](https://twitter.com/SevdaSevinu)
 
 * 👩🎓 I am currently studying Web Development at [Coder Academy](https://coderacademy.edu.au/)
 * 📚 I am learning JavaScript in the moment
