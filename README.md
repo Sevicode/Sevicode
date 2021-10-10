@@ -3,10 +3,9 @@
 
 
 
-* 👩🎓 I am currently studying Web Development at [Coder Academy](https://coderacademy.edu.au/)
-* 📚 I am learning JavaScript in the moment
+* 👩🎓 I am a Software Engineer.
 * 🔬🧡💻 I have a PhD degree in Environmental Science but found my passion in coding.
-* 🧩🎨I love making puzzles, painting and design.
+* 🧩🎨I love making puzzles, painting and everything JavaScript!.
 * 👋 How to reach me:
 
   * [LinkedIn](https://www.linkedin.com/in/sevda-amini-uhde-ab770743/)
