@@ -4,7 +4,7 @@
 
 
 * 👩🎓 I am a Software Engineer.
-* 🔬🧡💻 I have a PhD degree in Environmental Science but found my passion in coding.
+* 🔬🧡💻 I have a PhD in Environmental Science but found my passion in coding.
 * 🧩🎨I love making puzzles, painting and everything JavaScript!.
 * 👋 How to reach me:
 
