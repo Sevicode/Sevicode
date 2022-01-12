@@ -5,7 +5,7 @@
 
 * 👩🎓 I am a Software Engineer.
 * 🔬🧡💻 I have a PhD in Environmental Science but found my passion in coding.
-* 🧩🎨I love making puzzles, painting and everything JavaScript!.
+* 🧩🎨I love solving puzzles, painting and everything JavaScript!.
 * 👋 How to reach me:
 
   * [LinkedIn](https://www.linkedin.com/in/sevda-amini-uhde-ab770743/)
