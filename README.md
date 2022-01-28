@@ -60,6 +60,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevicode&langs_count=6&layout=compact&theme=highcontrast&show_icons=true)](https://github.com/sevicode/github-readme-stats)
 
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 
 
